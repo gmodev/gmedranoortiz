@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Gonzalo 👋
+```js
+const gmedranoortiz = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [Node, Storybook, Styled-Components, Jest, Docker]
+}
+```
 
 <!--
 **gmedranoortiz/gmedranoortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
