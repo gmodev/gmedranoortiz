@@ -1,6 +1,6 @@
 ### Hi, I'm Gonzalo 👋
 ```js
-const gmedranoortiz = {
+const gMo = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [Node, Storybook, Styled-Components, Jest, Docker]
