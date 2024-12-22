@@ -1,23 +1,16 @@
-### Hi, I'm Gonzalo 👋
-```js
-const gMo = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [Node, Storybook, Styled-Components, Jest, Docker]
-}
-```
+# 👋 Hi, I'm Gonzalo Medrano Ortiz
 
-<!--
-**gmedranoortiz/gmedranoortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ QA Automation Engineer and Web Developer
 
-Here are some ideas to get you started:
+I am a professional with over 5 years of experience in web application development and test automation. I specialize in ensuring software quality through innovative and efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+- **Frontend:** Angular, React, HTML, CSS, JavaScript
+- **Backend:** Python (Django, Flask), PHP, Node.js
+- **QA:** Cypress, Postman, Docker
+
+## 📬 Contact
+- **Email:** [gonzalomeortiz@gmail.com](mailto:gonzalomeortiz@gmail.com)
+- **LinkedIn:** [Gonzalo Medrano Ortiz](https://www.linkedin.com/in/gonzalomedranoortiz/)
+
+Thank you for visiting my profile! 😊
